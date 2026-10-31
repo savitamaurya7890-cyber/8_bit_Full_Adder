@@ -1,7 +1,7 @@
  8-Bit Full Adder Using Verilog HDL
 
 Project Overview
-Designed and simulated an 8-bit Full Adder using Verilog HDL in Xilinx Vivado.
+Design, Simulation, and Hardware Implementation of an 8-Bit Full Adder using Verilog HDL and Xilinx Vivado on FPGA Board | RTL Design | FPGA
 
 Tools Used
 - Verilog HDL
